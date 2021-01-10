@@ -1,7 +1,8 @@
 # MERN-stack
 	First I need to create my backend
 	I start with creating a folder especially made for backend purposes and at this time, I’m using Mongoose to create this for me
-	Note: Developers will use backend as it’s own folder but for the sake of this simple project, I’ve placed it in the same folder as the frontend
+	Note: Developers will use backend as it’s own folder but for the sake of this simple project, 
+	I’ve placed it in the same folder as the frontend
   
 	I have to make sure that I start with npm init-y, then install dependencies like cors, dotenv, express, mongoose
 	Once they’re installed, I run nodemon server
@@ -29,7 +30,8 @@
 	Check MongoDB, you can see the users or variable names you’ve created, on Collections, tab
 	If you see the information added, you can see that you’ve successfully added these requests
 	Server.js needs to be edited for the ‘app.use’ function, due to the new js files added from routes
-	Update (‘/update/:id’) and delete (router.route(‘/:id’).delete) as a part of the CRUD operations, will be added on the exercises.js 
+	Update (‘/update/:id’) and delete (router.route(‘/:id’).delete) as a part of the CRUD operations, 
+	will be added on the exercises.js 
   
 	You can find information about the id via GET request
 	Create your frontend (React)
