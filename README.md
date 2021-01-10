@@ -5,9 +5,10 @@
   
 	I have to make sure that I start with npm init-y, then install dependencies like cors, dotenv, express, mongoose
 	Once they’re installed, I run nodemon server
-	But wait, I have to go back on MongoDB, click the Connect button, and find the URI in there for my .env file. From there, I copy and paste the information, provide my Username and Password
+	But wait, I have to go back on MongoDB, click the Connect button, and find the URI in there for my .env file. 
+        From there, I copy and paste the information, provide my Username and Password
   
-	 Create some models of what you want to create. 
+# Create some models of what you want to create. 
 	Provide schema
 	Require mongoose and Schema
 	API input routes for CRUD operations, create, read, update, delete
@@ -49,9 +50,10 @@
 	Import BrowserRouter from react-router-dom
 	Take note of the navbar in App.js, function App()
 	Import all components in app.js, make sure you define the directories
-	Note, since most components require React, component from ‘react’ and import Link, from ‘react-router-dom’, it is good to keep these two in mind when you are creating components
+	Note, since most components require React, component from ‘react’ and import Link, from ‘react-router-dom’, 
+	it is good to keep these two in mind when you are creating components
   
-	Create a render() function
+# Create a render() function
 	Make sure you refer to the nav-links on there as well
 	Create component files
 	Create constructors for your component files
